@@ -28,7 +28,7 @@ and then
 
 Now go to your browser and you'll see 'loading' and dots being added every second OH MY! :)
  
-<img src="https://raw.githubusercontent.com/coderofsalvation/BrowserStream/master/anim.gif"/>
+<img src="https://raw.githubusercontent.com/coderofsalvation/BrowserStream/master/anim.gif?2"/>
 
 ## Apache Gzip == no worky
 
