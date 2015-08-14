@@ -2,7 +2,7 @@
     "name": "coderofsalvation/BrowserStream",
     "description": "stream text to browser in realtime without using websockets",
     "minimum-stability": "dev",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -16,6 +16,5 @@
         }
     },      
     "require": {
-        "coderofsalvation/browser-stream": "dev-master"
     }
 }
