@@ -12,9 +12,10 @@
     ],
     "autoload": {
         "psr-0": {
-            "HelloWorld": ""
+            "BrowserStream": ""
         }
     },      
     "require": {
+        "coderofsalvation/browser-stream": "dev-master"
     }
 }
