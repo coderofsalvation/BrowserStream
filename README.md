@@ -1,10 +1,11 @@
 BrowserStream
 =============
 
-<center><img alt="" width="250"  style="padding-right:20px" src="http://www.gifbin.com/bin/122014/1417561357_river_surfing.gif" align="left"/>
+<p align="center">
+  <img alt="" width="250" src="http://www.gifbin.com/bin/122014/1417561357_river_surfing.gif" align="left"/>
+  </p>
 Stream text to browser in realtime without using websockets.
 Think simple text progressbars, logging, terminal output etc.
-<div style="clear:both"></div>
 
 ## Installation
 
