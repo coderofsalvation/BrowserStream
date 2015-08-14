@@ -7,11 +7,11 @@ BrowserStream
 Stream text to browser in realtime without using websockets.
 Think simple text progressbars, logging, terminal output etc.
 
-## Installation
-
-composer require coderofsalvation/BrowserStream 
-
 ## Usage 
+
+    $ composer require coderofsalvation/BrowserStream 
+
+and then 
 
 		<?php
 			
