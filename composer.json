@@ -1,6 +1,6 @@
 {
     "name": "coderofsalvation/BrowserStream",
-    "description": "stream text to browser in realtime without using websockets",
+    "description": "stream text to browser in realtime without using websockets or ajax.",
     "minimum-stability": "dev",
     "version": "0.1.2",
     "license": "BSD-3-Clause",
