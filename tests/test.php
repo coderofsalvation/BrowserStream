@@ -1,6 +1,6 @@
 <?php 
 
-require_once __DIR__ . '/../BrowserStream.php'; // Autoload files using Composer autoload
+require_once __DIR__ . '/../src/BrowserStream.php'; // Autoload files using Composer autoload
 
 use coderofsalvation\BrowserStream;
 

@@ -8,13 +8,15 @@
         {
             "name": "Coder of Salvation",
             "email": "info@leon.vankammen.eu"
+            "homepage": "http://www.leonvankammen.eu"
         }
     ],
     "autoload": {
-        "psr-0": {
-            "BrowserStream\\": ""
+        "psr-4": {
+            "coderofsalvation\\": ["src"]
         }
     },      
     "require": {
-    }
+          "php": ">=5.4.0"
+    },    
 }
