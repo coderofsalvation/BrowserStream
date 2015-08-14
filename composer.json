@@ -1,0 +1,11 @@
+{
+    "name": "coderofsalvation/browser-stream",
+    "description": "stream text to browser in realtime without using websockets",
+    "authors": [
+        {
+            "name": "Coder of Salvation",
+            "email": "info@leon.vankammen.eu"
+        }
+    ],
+    "require": {}
+}
