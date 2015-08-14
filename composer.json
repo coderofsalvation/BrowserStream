@@ -1,5 +1,5 @@
 {
-    "name": "coderofsalvation/browser-stream",
+    "name": "coderofsalvation/BrowserStream",
     "description": "stream text to browser in realtime without using websockets",
     "minimum-stability": "dev",
     "version": "0.1.1",
