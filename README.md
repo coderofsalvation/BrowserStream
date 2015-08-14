@@ -5,7 +5,7 @@ BrowserStream
   <img alt="" width="250" src="http://www.gifbin.com/bin/122014/1417561357_river_surfing.gif"/>
   </p>
 Stream text to browser in realtime without using websockets.
-Think simple text progressbars, logging, terminal output etc.
+Think simple text progressbars, logging, longrunning tasks, terminal output etc.
 
 ## Usage 
 
