@@ -16,6 +16,5 @@
         }
     },      
     "require": {
-        "coderofsalvation/browser-stream": "dev-master"
     }
 }
