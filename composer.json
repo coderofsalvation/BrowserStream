@@ -1,6 +1,8 @@
 {
     "name": "coderofsalvation/browser-stream",
     "description": "stream text to browser in realtime without using websockets",
+    "minimum-stability": "stable",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Coder of Salvation",
