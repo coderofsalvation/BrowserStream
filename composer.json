@@ -10,5 +10,11 @@
             "email": "info@leon.vankammen.eu"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "."
+        }
+    },      
+    "require": {
+    }
 }
